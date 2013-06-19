@@ -1,16 +1,7 @@
-<!--
-  To change this template, choose Tools | Templates
-  and open the template in the editor.
--->
-
-<%@ page contentType="text/html;charset=UTF-8" %>
-
-<html>
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Sample title</title>
-  </head>
-  <body>
-    <h1>inicio</h1>
-  </body>
-</html>
+<div class="hero-unit">
+  <h1>Bienvenido a empresas ACME!!</h1>
+  <p>Para ingresar a nuestro catalogo debe logearse.</p>
+  <p>
+    
+  </p>
+</div>
